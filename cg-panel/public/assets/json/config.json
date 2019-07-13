@@ -1,0 +1,8 @@
+{
+	 "port":3000,
+	 "envMode": "development",
+	 "api_url":"http://localhost",
+	 "api_token" : "aforetechnical@321!",
+	 "image_url":"http://172.104.60.103/",
+	 "restrictedArea" : ["/accountsetting","/profile"]
+}
